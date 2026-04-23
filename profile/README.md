@@ -1,4 +1,4 @@
-# Renwood Creative
+# Renwood
 
 We design, build, and ship digital products with craft and precision.
 
